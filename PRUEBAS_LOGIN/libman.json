@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "font-awesome@5.5.0",
+      "destination": "lib/font-awesome/"
+    },
+    {
+      "library": "SlickNav@1.0.10",
+      "destination": "lib/SlickNav/"
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "bootstrap@5.3.2",
+  "destination": "lib/bootstrap/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "magnific-popup.js@1.1.0",
+  "destination": "lib/magnific-popup.js/"
+}
+]
+}

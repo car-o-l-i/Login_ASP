@@ -17,6 +17,7 @@ namespace PRUEBAS_LOGIN.Controllers
     {
 
         static string cadena = "Data Source=(local);Initial Catalog=DB_ACCESO;Integrated Security=true";
+        //static string cadena = "Data Source=(local);Initial Catalog=DB_ACCESO;User ID=nombre_de_usuario;Password=contraseña;";
 
 
 

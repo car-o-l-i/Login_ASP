@@ -4,7 +4,7 @@ html {
     margin: 0;
     padding: 0;
     height: 100%;
-    background: #60a3bc !important;
+    background: #8ca5c4 !important;
 }
 
 .user_card {
@@ -12,7 +12,8 @@ html {
     width: 350px;
     margin-top: auto;
     margin-bottom: auto;
-    background: #f39c12;
+    background: #8dc53e;
+    ;
     position: relative;
     display: flex;
     justify-content: center;
@@ -30,7 +31,7 @@ html {
     width: 170px;
     top: -75px;
     border-radius: 50%;
-    background: #60a3bc;
+    background: #8dc53e;
     padding: 10px;
     text-align: center;
 }
@@ -44,6 +45,7 @@ html {
 
 .form_container {
     margin-top: 100px;
+
 }
 
 .login_btn {
